@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Focus on",
+  "base_artist": "Endorfin.",
+  "createdAt": "2026-01-03T15:12:36.366534Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Focus On Me",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/01_Focus_On_Me_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Focus On Me",
+      "artist": "Lil Mosey",
+      "has_synced": true,
+      "path": "select/02_Focus_On_Me_Lil_Mosey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Focus On Me",
+      "artist": "Rico Nasty",
+      "has_synced": true,
+      "path": "select/03_Focus_On_Me_Rico_Nasty.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Focus On Me",
+      "artist": "MARUV",
+      "has_synced": true,
+      "path": "select/04_Focus_On_Me_MARUV.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Focus On Me - (Strip Version) [Bonus Track]",
+      "artist": "MARUV",
+      "has_synced": false,
+      "path": "select/05_Focus_On_Me_-_(Strip_Version)_[Bonus_Track]_MARUV.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Focus On Sight",
+      "artist": "Thievery Corporation",
+      "has_synced": true,
+      "path": "select/06_Focus_On_Sight_Thievery_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Focus On The Future",
+      "artist": "Krakota feat. Lifford",
+      "has_synced": true,
+      "path": "select/07_Focus_On_The_Future_Krakota_feat._Lifford.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Focus on the Game",
+      "artist": "The Unauthorized Bash Brothers Experience feat. The Lonely Island",
+      "has_synced": true,
+      "path": "select/08_Focus_on_the_Game_The_Unauthorized_Bash_Brothers_Experience_feat._The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Focus on the Game",
+      "artist": "The Unauthorized Bash Brothers Experience, The Lonely Island",
+      "has_synced": true,
+      "path": "select/09_Focus_on_the_Game_The_Unauthorized_Bash_Brothers_Experience,_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Focus on the Game",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/10_Focus_on_the_Game_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Focus On Your Own Family",
+      "artist": "Off with Their Heads",
+      "has_synced": true,
+      "path": "select/11_Focus_On_Your_Own_Family_Off_with_Their_Heads.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Focus on the Magick",
+      "artist": "Jeff the Brotherhood",
+      "has_synced": false,
+      "path": "select/12_Focus_on_the_Magick_Jeff_the_Brotherhood.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Focus On You",
+      "artist": "KYLE",
+      "has_synced": true,
+      "path": "select/13_Focus_On_You_KYLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Focus on",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/pl_01_Focus_on_Endorfin..txt"
+    }
+  ]
+}
